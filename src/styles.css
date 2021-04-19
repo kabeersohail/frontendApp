@@ -4,6 +4,11 @@
 body{
     background: #24272b;
 }
+
+
+.form{
+    background-color:#24272b;
+}
 .card {
     border: none;
     -webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,.05);
@@ -13,7 +18,7 @@ body{
 .w-60 {
     width: 60px;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h6 {
     color: white;
     margin: 0 0 10px;
     font-weight: 600;
@@ -48,6 +53,27 @@ p,a,li{
 }
 
 .form-control{
-    background-color: #24272b;
+    background: #383d41;
     border: 1px solid #006dff;
+    color: #80a095;
+}
+
+.form{
+    background-color: #24272b;
+}
+
+.input{
+    background-color: red;
+}
+
+.modal-body{
+    background-color: #24272b;
+}
+
+.modal-content{
+    background-color: #24272b;
+}
+
+h5{
+    color:white;
 }
